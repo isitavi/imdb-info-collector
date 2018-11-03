@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Friends",
+    "poster": "https://www.movieposter.com/posters/archive/main/52/MPW-26106",
+    "plot": "Follows the personal and professional lives of six 20 to 30-something-year-old friends living in Manhattan.",
+    "imdbRating": "9.0"
+  },
+  {
+    "title": "Game of Thrones",
+    "plot": "Nine noble families fight for control over the mythical lands of Westeros. Meanwhile, a forgotten race hell-bent on destruction returns after being dormant for thousands of years.",
+    "poster": "http://www.gstatic.com/tv/thumb/tvbanners/14160794/p14160794_b_v8_aa.jpg",
+    "imdbRating": "9.5"
+  },
+  {
+    "title": "Sherlock",
+    "plot": "A modern update finds the famous sleuth and his doctor partner solving crime in 21st century London.",
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDWUuQyIph4onP5YqhQJ9sRzBjpUqKmoAvWiNkRyrnocP3UMKB",
+    "imdbRating": "9.2"
+  }
+]
